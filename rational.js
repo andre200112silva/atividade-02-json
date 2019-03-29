@@ -2,7 +2,7 @@
 console.log('rational.js');
 
 function rational(numerator, denominator) {
-    return {
+    return { // <== this is a JSON being returned by the function
         numerator: numerator,
         denominator: denominator,
         multiply: function(otherRational) {
@@ -47,3 +47,13 @@ r3.reduce();
 
 console.log(r3.numerator === 2);
 console.log(r3.denominator === 5);
+
+const r4 = rational(248, 684);
+const r5 = rational(320, 496);
+
+const r6 = r4.multiply(r5);
+console.log(r6); // 79360/339264
+r6.reduce();
+console.log(r6); // 40/171
+// Em dúvida?
+// Teste aqui: https://www.wolframalpha.com/input/?i=248%2F684+*+320%2F496
