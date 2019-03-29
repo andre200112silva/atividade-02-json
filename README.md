@@ -4,7 +4,7 @@ Prazo: 2019-04-07 Peso: 1.5 pts
 
 _Permission granted to burn the midnight oil._
 
-Classroom link: <https://classroom.github.com/a/#> (not ready)
+Classroom link: <https://classroom.github.com/a/xTmWB-0m>
 
 ## Regras & Restrições
 
