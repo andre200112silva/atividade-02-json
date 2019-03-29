@@ -1,10 +1,10 @@
 # AVA#02: JavaScript Object Notation
 
-Prazo: 2019-04-03 Peso: 1.5 pts
+Prazo: 2019-04-07 Peso: 1.5 pts
 
 _Permission granted to burn the midnight oil._
 
-Classroom link: <https://classroom.github.com/a/#>
+Classroom link: <https://classroom.github.com/a/#> (not ready)
 
 ## Regras & Restrições
 
@@ -26,7 +26,7 @@ Observe o modelo [`rational.js`](rational.js) para desenvolver o [`complex.js`](
 
 ## Livre 0.5 pts
 
-Codifique um JSON com uma estrutura de dados. O tema é livre. Deve ter pelo menos 3 níveis (deslocamentos). Incluir testes.
+Codifique um JSON com uma estrutura de dados. O tema é livre. Deve ter pelo menos 3 níveis (deslocamentos) e três registros em vetores. Incluir testes (ver [`netflix.js`](netflix.js)).
 
 Usar este arquivo [`free.js`](free.js)
 
